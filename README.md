@@ -19,51 +19,49 @@
 ---
 ### Flowers
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/flowers/013.jpg'/>
+    <img alt='Fourth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/flowers/013.jpg'/>
 </p>
 
 ---
 ### Games
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/games/001.jpg'/>
+    <img alt='Fith Photo' src='https://raw.githubusercontent.com/iampj/wp/main/games/001.jpg'/>
 </p>
 
 ---
 ### Green
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/green/033.jpg'/>
+    <img alt='Sixth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/green/033.jpg'/>
 </p>
 
 ---
 ### Minimal
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/minimal/005.png'/>
+    <img alt='Seventh Photo' src='https://raw.githubusercontent.com/iampj/wp/main/minimal/005.png'/>
 </p>
 
 ---
 ### Nord
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/nord/069.png'/>
+    <img alt='Eighth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/nord/069.png'/>
 </p>
 
 ---
 ### Pink
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/pink/031.png'/>
+    <img alt='Nineth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/pink/031.png'/>
 </p>
 
 ---
 ### Waifu
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/waifu/005.jpg'/>
+    <img alt='Tenth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/waifu/005.jpg'/>
 </p>
 
 ---
 
 
 # Info
-
-- Most of the wallpapers are nature.
 
 - The total number of wallpapers is `504`, all in jpg/png format.
 
