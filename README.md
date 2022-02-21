@@ -63,7 +63,7 @@
 
 # Info
 
-- The total number of wallpapers is `504`, all in jpg/png format.
+- The total number of wallpapers is `561`, all in jpg/png format.
 
 # Note:
 
