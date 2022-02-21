@@ -1,25 +1,25 @@
 # Some of the Wallpapers:
 ### Anime
 <p align='center'>
-    <img alt='First Photo' src='https://raw.githubusercontent.com/iampj/wp/main/anime/002.png'/>
+    <img alt='First Photo' src='https://raw.githubusercontent.com/iampj/wp/main/anime/0001.png'/>
 </p>
 
 ---
 ### Atari
 <p align='center'>
-    <img alt='Second Photo' src='https://raw.githubusercontent.com/iampj/wp/main/atari/036.jpg'/>
+    <img alt='Second Photo' src='https://raw.githubusercontent.com/iampj/wp/main/atari/0019.jpg'/>
 </p>
 
 ---
 ### City
 <p align='center'>
-    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/city/001.jpg'/>
+    <img alt='Third Photo' src='https://raw.githubusercontent.com/iampj/wp/main/city/0003.jpg'/>
 </p>
 
 ---
 ### Flowers
 <p align='center'>
-    <img alt='Fourth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/flowers/013.jpg'/>
+    <img alt='Fourth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/flowers/0007.jpg'/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ---
 ### Green
 <p align='center'>
-    <img alt='Sixth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/green/033.jpg'/>
+    <img alt='Sixth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/green/0001.png'/>
 </p>
 
 ---
