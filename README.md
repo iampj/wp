@@ -65,7 +65,7 @@
 
 - The total number of wallpapers is `561`, all in jpg/png format.
 
-# Note:
+# Note
 
 > These aren't my wallpapers. I've collected them from different sources, like:
 > 
