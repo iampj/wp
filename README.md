@@ -55,7 +55,7 @@
 ---
 ### Waifu
 <p align='center'>
-    <img alt='Tenth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/waifu/005.jpg'/>
+    <img alt='Tenth Photo' src='https://raw.githubusercontent.com/iampj/wp/main/waifu/0005.jpg'/>
 </p>
 
 ---
